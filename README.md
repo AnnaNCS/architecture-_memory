@@ -2,4 +2,4 @@
 
 ## About
 
-Computer Architcture course Assignment at Columbia University and New York University, Fall 2023.
+Computer Architecture course Assignment at Columbia University and New York University, Fall 2023.
